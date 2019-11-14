@@ -6,7 +6,7 @@ Only the LSTM based model is integrated to Rest interface, since it exhibits bet
 ## Project Structure
 - data/: Includes training and test files
 - model_artifacts/: Includes trained model artifacts
-- train.ipynb: Jupyter Notebook file model training and test operations
+- train.ipynb: Jupyter Notebook file for model training and test operations
 - intent_api_exceptions.py: Http exception classes for Rest service
 - intent_classifier.py: Intent prediction model loader and evaluator
 - server.py: Rest service api controller
