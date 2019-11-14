@@ -1,0 +1,6 @@
+flask
+numpy==1.17.3
+pandas==0.25.3
+nltk==3.2.5
+tensorflow==1.15.0
+keras==2.2.5
